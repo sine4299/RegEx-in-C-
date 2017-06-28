@@ -1,0 +1,9 @@
+c:\users\caleb\documents\visual studio 2015\Projects\Assign5RegEx\Assign5RegEx\bin\Debug\Assign5RegEx.exe.config
+c:\users\caleb\documents\visual studio 2015\Projects\Assign5RegEx\Assign5RegEx\bin\Debug\Assign5RegEx.exe
+c:\users\caleb\documents\visual studio 2015\Projects\Assign5RegEx\Assign5RegEx\bin\Debug\Assign5RegEx.pdb
+c:\users\caleb\documents\visual studio 2015\Projects\Assign5RegEx\Assign5RegEx\obj\Debug\Assign5RegEx.csprojResolveAssemblyReference.cache
+c:\users\caleb\documents\visual studio 2015\Projects\Assign5RegEx\Assign5RegEx\obj\Debug\Assign5RegEx.RegExForm.resources
+c:\users\caleb\documents\visual studio 2015\Projects\Assign5RegEx\Assign5RegEx\obj\Debug\Assign5RegEx.Properties.Resources.resources
+c:\users\caleb\documents\visual studio 2015\Projects\Assign5RegEx\Assign5RegEx\obj\Debug\Assign5RegEx.csproj.GenerateResource.Cache
+c:\users\caleb\documents\visual studio 2015\Projects\Assign5RegEx\Assign5RegEx\obj\Debug\Assign5RegEx.exe
+c:\users\caleb\documents\visual studio 2015\Projects\Assign5RegEx\Assign5RegEx\obj\Debug\Assign5RegEx.pdb

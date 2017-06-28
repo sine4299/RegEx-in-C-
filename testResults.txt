@@ -1,0 +1,43 @@
+123-45-6789 Result: True
+123456789 Result: True
+12243 Result: False
+509-385-1156 Result: True
+(308)2347634 Result: True
+23-234-4746 Result: False
+tcapaul@mail.ewu.edu Result: True
+thomas.capaul@mail.ewu.edu Result: True
+caleb@gmail Result: False
+Gray Caleb E Result: True
+gray caleb es Result: True
+graycaleb e Result: False
+08-28-1982 Result: True
+08 28 1982 Result: True
+20 23 1980 Result: False
+08/28/1982 Result: True
+23 W. 19th Result: True
+234 E. Grand Blvd Result: True
+234 E. Grand Street Result: True
+sd 3 3rd Result: False
+Spokane WA 99203 Result: True
+Portland OR 99324-1234 Result: True
+City WR 99203 Result: False
+34 AZ 99244 Result: False
+23:35:59 Result: True
+29:30:40 Result: False
+12 23 20 Result: True
+234528 Result: True
+$.23 Result: True
+1.23 Result: False
+$1238.00 Result: True
+$1,234,123.00 Result: True
+12344.234 Result: False
+http://www.caleb-gray.com Result: True
+https://www.calebgray.edu Result: True
+www.calebgray.net/~myhome/ Result: True
+w.fail.com Result: False
+HapPyDay:9 Result: True
+happyday?1 Result: False
+%haPPdaY23 Result: True
+ion Result: True
+aefqewgfion Result: True
+12365ion Result: False

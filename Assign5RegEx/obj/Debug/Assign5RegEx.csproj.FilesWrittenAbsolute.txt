@@ -1,0 +1,10 @@
+/Users/calebgray/Documents/doc/Programming/cscd437-SecureCoding/Assign5RegEx/Assign5RegEx/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/calebgray/Documents/doc/Programming/cscd437-SecureCoding/Assign5RegEx/Assign5RegEx/obj/Debug/Assign5RegEx.RegExForm.resources
+/Users/calebgray/Documents/doc/Programming/cscd437-SecureCoding/Assign5RegEx/Assign5RegEx/obj/Debug/Assign5RegEx.Properties.Resources.resources
+/Users/calebgray/Documents/doc/Programming/cscd437-SecureCoding/Assign5RegEx/Assign5RegEx/bin/Debug/Assign5RegEx.exe.config
+/Users/calebgray/Documents/doc/Programming/cscd437-SecureCoding/Assign5RegEx/Assign5RegEx/bin/Debug/Assign5RegEx.exe.mdb
+/Users/calebgray/Documents/doc/Programming/cscd437-SecureCoding/Assign5RegEx/Assign5RegEx/bin/Debug/Assign5RegEx.pdb
+/Users/calebgray/Documents/doc/Programming/cscd437-SecureCoding/Assign5RegEx/Assign5RegEx/bin/Debug/Assign5RegEx.exe
+/Users/calebgray/Documents/doc/Programming/cscd437-SecureCoding/Assign5RegEx/Assign5RegEx/obj/Debug/Assign5RegEx.exe
+/Users/calebgray/Documents/doc/Programming/cscd437-SecureCoding/Assign5RegEx/Assign5RegEx/obj/Debug/Assign5RegEx.exe.mdb
+/Users/calebgray/Documents/doc/Programming/cscd437-SecureCoding/Assign5RegEx/Assign5RegEx/obj/Debug/Assign5RegEx.pdb

@@ -1,0 +1,88 @@
+a
+123-45-6789
+a
+123456789
+a
+12243
+b
+509-385-1156
+b
+(308)2347634
+b
+23-234-4746
+c
+tcapaul@mail.ewu.edu
+c
+thomas.capaul@mail.ewu.edu
+c
+caleb@gmail
+d
+Gray Caleb E
+d
+gray caleb es
+d
+graycaleb e
+e
+08-28-1982
+e
+08 28 1982
+e
+20 23 1980
+e
+08/28/1982
+f
+23 W. 19th
+f
+234 E. Grand Blvd
+f
+234 E. Grand Street
+f
+sd 3 3rd
+g
+Spokane WA 99203
+g
+Portland OR 99324-1234
+g
+City WR 99203
+g
+34 AZ 99244
+h
+23:35:59
+h
+29:30:40
+h
+12 23 20
+h
+234528
+i
+$.23
+i
+1.23
+i
+$1238.00
+i
+$1,234,123.00
+i
+12344.234
+j
+http://www.caleb-gray.com
+j
+https://www.calebgray.edu
+j
+www.calebgray.net/~myhome/
+j
+w.fail.com
+k
+HapPyDay:9
+k
+happyday?1
+k
+%haPPdaY23
+l
+ion
+l
+aefqewgfion
+l
+12365ion
+etrion
+q
